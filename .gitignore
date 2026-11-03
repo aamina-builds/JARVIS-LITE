@@ -1,0 +1,8 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+voices/*.onnx
+voices/*.onnx.json
+.DS_Store
