@@ -1,4 +1,4 @@
-# JARVIS: Local Voice Assistant
+# Jarvis Lite: Offline Voice Assistant
 
 A voice assistant that runs **entirely on my own computer**: no paid APIs, no API keys, no cloud.
 I speak, it listens, thinks, and answers out loud. It can also take real actions like opening websites and apps.
